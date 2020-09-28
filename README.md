@@ -32,3 +32,9 @@ kinds of inputs apart from your knowledge of forms and structuring your webpage.
 ## [Submitting Tasks](#submitting-tasks)
 
 To submit the tasks, push your changes to the repo you forked, and add your email and name to the readme file
+
+
+
+I have done Task1 and task 2 
+email adress: pp.thulo@gmail.com
+name:Palesa Thulo
